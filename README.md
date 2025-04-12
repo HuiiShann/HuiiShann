@@ -4,7 +4,7 @@ Hii ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-91
 Computer Science (Bioinformatics) student
 -----------------------------------------
 
-I am a first year computing student in UTM. I love to explore everything new to me. Hope to learn different type of coding language and use of software tools among this 4 years uni life.
+I am currently a first-year Computing student at Universiti Teknologi Malaysia (UTM). I have a strong passion for exploring new concepts, technologies, and ideas that are unfamiliar to me. Throughout my four years of university life, I hope to gain exposure to various programming languages and software tools, and to develop a solid foundation in both theoretical and practical aspects of computing.
 
 * 🌍  I'm based in Selangor, Malaysia.
 * 🖥️  See my portfolio at [https://github.com/HuiiShann](http://https://github.com/HuiiShann)
